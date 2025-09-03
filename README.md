@@ -52,5 +52,7 @@ The process includes data collection, database integration, exploratory data ana
 - **Python** (`pandas`, `matplotlib`, `seaborn`, `mysql-connector`)  
 - **MySQL**  
 - **Power BI**  
-- **CSV Data Files**  
+- **CSV Data Files**
+---
+![Dashboard Preview](dashboard/screenshots.png)
 
