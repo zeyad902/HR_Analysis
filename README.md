@@ -1,7 +1,7 @@
 ---
 title: "📊 Human Resources Jobs Data Analysis"
 author: "Zeyad Goda"
-date: "`r Sys.Date()`"
+date: `r Sys.Date()`
 output: github_document
 ---
 
