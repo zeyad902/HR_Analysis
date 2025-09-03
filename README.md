@@ -54,6 +54,6 @@ The process includes data collection, database integration, exploratory data ana
 - **Power BI**  
 - **CSV Data Files**
 ---
-![Dashboard Preview](screenshots/Screenshot 2025-09-03 214234.png)
+![Dashboard Preview](screenshots/dashboard1.png)
 
 
