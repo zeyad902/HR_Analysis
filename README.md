@@ -1,8 +1,6 @@
 ---
 title: "📊 Human Resources Jobs Data Analysis"
 author: "Zeyad Goda"
-date: `r Sys.Date()`
-output: github_document
 ---
 
 ## 📌 Overview
@@ -55,20 +53,4 @@ The process includes data collection, database integration, exploratory data ana
 - **MySQL**  
 - **Power BI**  
 - **CSV Data Files**  
-
----
-
-## 📂 Project Structure
-```{r, echo=FALSE}
-cat("
-├── data/
-│   └── jobs_data.csv
-├── notebooks/
-│   └── eda.ipynb
-├── sql/
-│   └── create_tables.sql
-├── dashboard/
-│   └── hr_jobs_dashboard.pbix
-└── README.Rmd
-")
 
